@@ -41,6 +41,7 @@ public class TicTacToe {
                 change = player1;
             }
         }
+        System.out.println("50 manatliq proyekt . DENIZ90 promokod ile endirimden yararlana bilersiz: ");
     }
 }
 
